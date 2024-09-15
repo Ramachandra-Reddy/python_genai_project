@@ -1,0 +1,30 @@
+dev:
+  llm_conn:
+    host: "dfdfdfd"
+    usenname: "dfdfd"
+    api_key: "dfdfd"
+
+  redis_db:
+    host: "dfdfd"
+    username: "dfdfd"
+
+test:
+  llm_conn:
+    host: "dfdfdfd"
+    usenname: "dfdfd"
+    api_key: "dfdfd"
+
+  redis_db:
+    host: "dfdfd"
+    username: "dfdfd"
+
+prod:
+  llm_conn:
+    host: "dfdfdfd"
+    usenname: "dfdfd"
+    api_key: "dfdfd"
+
+  redis_db:
+    host: "dfdfd"
+    username: "dfdfd"
+
