@@ -1,4 +1,9 @@
 from pydantic import BaseModel
 
-class InputQuestion(BaseModel):
-    question: str
+
+class Employee(BaseModel):
+    id: int
+    name: str
+    age: int
+    salary: float
+    
